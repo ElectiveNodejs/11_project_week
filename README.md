@@ -1,3 +1,3 @@
-# 1Project Week
+# Project Week
 Obligatorisk Opgave nummer 2
 
