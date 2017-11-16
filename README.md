@@ -2,6 +2,9 @@
 Obligatorisk Opgave nummer 2    
 **Fredag d. 17. november til fredag d. 24. november**
 
+## Opgaven
+* Lav et node.js projekt der gør brug af de elementer i har lært i dette semester (frontend og backend).
+
 ## Formål
 Formålet med denne opgave er at i får lavet et projekt der indeholder de elementer i har været igennem i dette semester, og får feedback på hvor godt i er "med". 
 
@@ -10,6 +13,5 @@ Projektet, eller projekter skal i tage med til eksamenen i januar og bruge det s
 ## Beståelseskriterie
 Projektet er bestået når i viser det til Roxana eller Claus og får feedback på hvordan i har løst det.
 
-## Opgaven
-* Lav et node.js projekt der gør brug af de elementer i har lært i dette semester (frontend og backend).
+
 
