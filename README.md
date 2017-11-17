@@ -13,5 +13,9 @@ Formålet med denne opgave er to delt:
 ## Beståelseskriterie for den obligatoriske opgave
 Projektet er bestået når i har vist det til Roxana eller Claus **fredag d. 24. november**, og fået feedback på hvordan i har løst det.
 
+Da det er en obligatorisk opgave betyder det også at i skal have en bedømmelse af opgaven inden eksamenen, ellers mister i et eksamensforsøg.
+
+
+
 
 
