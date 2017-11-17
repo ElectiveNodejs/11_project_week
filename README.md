@@ -3,14 +3,14 @@ Obligatorisk Opgave nummer 2
 **Fredag d. 17. november til fredag d. 24. november**
 
 ## Opgaven
-Lav et node.js projekt der gør brug af de elementer i har lært i dette semester (frontend og backend).
+Lav et node.js projekt, der gør brug af de elementer i har lært i dette semester (frontend og backend).
 
 ## Formål
-Formålet med denne opgave er at i får lavet et projekt der indeholder de elementer i har været igennem i dette semester, og får feedback på hvor godt i er "med". 
+Formålet med denne opgave er to delt:
+1. Dels er opgaven den anden obligatoriske opgave i dette semester
+2. Dels er det, det projekt i kan tage med til eksamenen og bruge som udgangspunkt for jeres 10 minutters fremlæggelse. 
 
-Projektet, eller projekter skal i tage med til eksamenen i januar og bruge det som udgangspunkt for det i vil snakke om de først 10 minutter, og som "støtte" til de spørgsmål i vil blive stille af Roxana eller Claus.
-
-## Beståelseskriterie
+## Beståelseskriterie for den obligatoriske opgave
 Projektet er bestået når i har vist det til Roxana eller Claus **fredag d. 24. november**, og fået feedback på hvordan i har løst det.
 
 
